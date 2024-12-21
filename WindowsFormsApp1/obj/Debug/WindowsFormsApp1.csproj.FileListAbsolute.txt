@@ -1,0 +1,17 @@
+H:\УП\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\УП\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\УП\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\УП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+H:\УП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\УП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\УП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\УП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\УП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\УП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Autorization.resources
+H:\УП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Catalog.resources
+H:\УП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+H:\УП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Users.resources
+H:\УП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Issues.resources
+H:\УП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Returns.resources
+H:\УП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Request.resources
+H:\УП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TopBook.resources
